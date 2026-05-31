@@ -1,0 +1,45 @@
+20:05:45.974 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:05:45.989 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+20:05:45.989 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:05:45.989 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:05:45.989 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:05:46.012 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+20:05:46.020 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:05:46.020 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:05:46.020 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:05:46.020 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+20:05:46.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:05:46.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:05:46.043 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:05:46.048 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+20:05:46.051 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:05:46.051 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:05:46.051 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:05:46.066 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+20:05:46.101 [main] INFO  testCases.TC003_LoginDDT - ***Starting of the TC003_LoginDDT***
+20:05:47.963 [main] INFO  testCases.TC003_LoginDDT - *** Ending of the TC003_LoginDDT ***
+20:05:47.969 [main] INFO  testCases.TC003_LoginDDT - ***Starting of the TC003_LoginDDT***
+20:05:49.579 [main] INFO  testCases.TC003_LoginDDT - *** Ending of the TC003_LoginDDT ***
+20:05:49.582 [main] INFO  testCases.TC003_LoginDDT - ***Starting of the TC003_LoginDDT***
+20:06:00.037 [main] INFO  testCases.TC003_LoginDDT - *** Ending of the TC003_LoginDDT ***
+20:06:00.037 [main] INFO  testCases.TC003_LoginDDT - ***Starting of the TC003_LoginDDT***
+20:06:10.649 [main] INFO  testCases.TC003_LoginDDT - *** Ending of the TC003_LoginDDT ***
+20:06:10.665 [main] INFO  testCases.TC003_LoginDDT - ***Starting of the TC003_LoginDDT***
+20:06:21.182 [main] INFO  testCases.TC003_LoginDDT - *** Ending of the TC003_LoginDDT ***
+18:04:45.832 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting of the TC001_AccountRegistration*****
+18:04:45.963 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the My Account
+18:04:46.259 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Registration Page
+18:04:46.259 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+18:04:46.386 [main] INFO  testCases.TC001_AccountRegistrationTest - First Name Done
+18:04:46.451 [main] INFO  testCases.TC001_AccountRegistrationTest - Last Name Done
+18:04:46.531 [main] INFO  testCases.TC001_AccountRegistrationTest - Email Id Done
+18:04:46.583 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile NumberDone
+18:04:46.667 [main] INFO  testCases.TC001_AccountRegistrationTest - Set Password Done
+18:04:46.722 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirm Password Done
+18:04:46.810 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Check box
+18:04:48.333 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button
+18:04:48.333 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the message
+18:04:48.370 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+18:04:50.221 [main] INFO  testCases.TC002_LoginTest - *****Start the TC002*****
+18:04:51.792 [main] INFO  testCases.TC002_LoginTest - *****TC002_Finished*****
+12:04:27.911 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting of the TC001_AccountRegistration*****

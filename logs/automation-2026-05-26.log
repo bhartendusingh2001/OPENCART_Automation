@@ -1,0 +1,50 @@
+17:18:47.783 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Starting of the TC001_AccountRegistration*****
+17:18:47.993 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the My Account
+17:18:48.788 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Registration Page
+17:18:48.793 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+17:18:49.530 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - First Name Done
+17:18:49.710 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Last Name Done
+17:18:49.941 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Email Id Done
+17:18:50.152 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Mobile NumberDone
+17:18:50.385 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Starting of the TC001_AccountRegistration*****
+17:18:50.412 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Set Password Done
+17:18:50.590 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Confirm Password Done
+17:18:50.671 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the My Account
+17:18:50.765 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on Check box
+17:18:51.157 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Registration Page
+17:18:51.159 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+17:18:51.337 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - First Name Done
+17:18:51.470 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Last Name Done
+17:18:51.628 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Email Id Done
+17:18:51.858 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Mobile NumberDone
+17:18:52.020 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button
+17:18:52.020 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating the message
+17:18:52.203 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Set Password Done
+17:18:52.228 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+17:18:52.373 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Confirm Password Done
+19:39:46.506 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting of the TC001_AccountRegistration*****
+19:39:46.846 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the My Account
+19:39:47.308 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Registration Page
+19:39:47.312 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+19:39:47.654 [main] INFO  testCases.TC001_AccountRegistrationTest - First Name Done
+19:39:47.912 [main] INFO  testCases.TC001_AccountRegistrationTest - Last Name Done
+19:39:48.128 [main] INFO  testCases.TC001_AccountRegistrationTest - Email Id Done
+19:39:48.338 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile NumberDone
+19:39:48.562 [main] INFO  testCases.TC001_AccountRegistrationTest - Set Password Done
+19:39:48.859 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirm Password Done
+19:39:49.156 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Check box
+19:39:50.876 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button
+19:39:50.877 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the message
+19:39:51.055 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+19:39:54.374 [main] INFO  testCases.TC002_LoginTest - *****Start the TC002*****
+19:39:56.824 [main] INFO  testCases.TC002_LoginTest - *****TC002_Finished*****
+19:40:31.515 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Starting of the TC001_AccountRegistration*****
+19:40:31.782 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****Starting of the TC001_AccountRegistration*****
+19:40:31.937 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the My Account
+19:40:32.219 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the My Account
+21:56:53.300 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting of the TC001_AccountRegistration*****
+21:56:53.507 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the My Account
+21:56:53.892 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Registration Page
+21:56:53.894 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+21:56:54.051 [main] INFO  testCases.TC001_AccountRegistrationTest - First Name Done
+21:56:54.158 [main] INFO  testCases.TC001_AccountRegistrationTest - Last Name Done

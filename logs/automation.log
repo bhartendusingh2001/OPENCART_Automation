@@ -1,0 +1,59 @@
+21:56:54.270 [main] INFO  testCases.TC001_AccountRegistrationTest - Email Id Done
+21:56:54.399 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile NumberDone
+21:56:54.545 [main] INFO  testCases.TC001_AccountRegistrationTest - Set Password Done
+21:56:54.659 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirm Password Done
+21:56:54.795 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Check box
+21:56:55.778 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button
+21:56:55.779 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the message
+21:56:55.882 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+21:56:57.842 [main] INFO  testCases.TC002_LoginTest - *****Start the TC002*****
+21:56:59.738 [main] INFO  testCases.TC002_LoginTest - *****TC002_Finished*****
+21:57:51.941 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting of the TC001_AccountRegistration*****
+21:57:52.265 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the My Account
+21:57:52.719 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Registration Page
+21:57:52.721 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+21:57:52.809 [main] INFO  testCases.TC001_AccountRegistrationTest - First Name Done
+21:57:52.917 [main] INFO  testCases.TC001_AccountRegistrationTest - Last Name Done
+21:57:53.028 [main] INFO  testCases.TC001_AccountRegistrationTest - Email Id Done
+21:57:53.095 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile NumberDone
+21:57:53.171 [main] INFO  testCases.TC001_AccountRegistrationTest - Set Password Done
+21:57:53.233 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirm Password Done
+21:57:53.515 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Check box
+21:57:54.399 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button
+21:57:54.399 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the message
+21:57:54.442 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+21:57:59.496 [main] INFO  testCases.TC002_LoginTest - *****Start the TC002*****
+21:58:01.189 [main] INFO  testCases.TC002_LoginTest - *****TC002_Finished*****
+23:19:47.622 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting of the TC001_AccountRegistration*****
+23:19:48.630 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the My Account
+23:19:52.851 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Registration Page
+23:19:52.853 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+23:19:53.173 [main] INFO  testCases.TC001_AccountRegistrationTest - First Name Done
+23:19:53.424 [main] INFO  testCases.TC001_AccountRegistrationTest - Last Name Done
+23:19:53.584 [main] INFO  testCases.TC001_AccountRegistrationTest - Email Id Done
+23:19:53.818 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile NumberDone
+23:19:53.992 [main] INFO  testCases.TC001_AccountRegistrationTest - Set Password Done
+23:19:54.097 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirm Password Done
+23:19:54.300 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Check box
+23:19:55.266 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button
+23:19:55.266 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the message
+23:19:55.457 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished TC001_AccountRegistrationTest*****
+23:20:01.449 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Starting of the TC001_AccountRegistration*****
+23:20:01.725 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the My Account
+23:20:04.235 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Registration Page
+23:20:04.237 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+23:20:04.337 [main] INFO  testCases.TC001_AccountRegistrationTest - First Name Done
+23:20:04.406 [main] INFO  testCases.TC001_AccountRegistrationTest - Last Name Done
+23:20:04.506 [main] INFO  testCases.TC001_AccountRegistrationTest - Email Id Done
+23:20:04.589 [main] INFO  testCases.TC001_AccountRegistrationTest - Mobile NumberDone
+23:20:04.682 [main] INFO  testCases.TC001_AccountRegistrationTest - Set Password Done
+23:20:04.804 [main] INFO  testCases.TC001_AccountRegistrationTest - Confirm Password Done
+23:20:04.932 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on Check box
+23:20:10.284 [main] INFO  testCases.TC001_AccountRegistrationTest - Click on continue button
+23:20:10.285 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating the message
+23:20:10.328 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+23:20:10.329 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+23:20:15.049 [main] INFO  testCases.TC002_LoginTest - *****Start the TC002*****
+23:20:18.821 [main] INFO  testCases.TC002_LoginTest - *****TC002_Finished*****
+23:20:25.565 [main] INFO  testCases.TC002_LoginTest - *****Start the TC002*****
+23:20:28.212 [main] INFO  testCases.TC002_LoginTest - *****TC002_Finished*****
